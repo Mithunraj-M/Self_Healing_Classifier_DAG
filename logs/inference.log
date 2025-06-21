@@ -33,3 +33,7 @@
 2025-06-21 16:01:26,669 - INFO - Text: 'I went home early after I finished my work' | Prediction: sadness | Confidence: 0.5212
 2025-06-21 16:03:00,979 - INFO - Text: 'I went to the mall to get a gift' | Prediction: joy | Confidence: 0.7784
 2025-06-21 16:04:25,398 - INFO - Text: 'I finished all my work on time' | Prediction: sadness | Confidence: 0.3987
+2025-06-21 23:37:21,082 - INFO - Text: 'I went home after I finished my work' | Prediction: joy | Confidence: 0.4241
+2025-06-21 23:47:46,089 - INFO - Text: 'I went home early' | Prediction: sadness | Confidence: 0.4948
+2025-06-22 00:04:33,663 - INFO - Text: 'I went home early' | Prediction: sadness | Confidence: 0.4948
+2025-06-22 00:24:22,018 - INFO - Text: 'I went home early today' | Prediction: joy | Confidence: 0.3399

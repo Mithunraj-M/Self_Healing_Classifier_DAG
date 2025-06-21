@@ -33,3 +33,7 @@
 [CHECK] Text: 'I went home early after I finished my work' | Label: sadness | Confidence: 0.5212 | Status: fallback
 [CHECK] Text: 'I went to the mall to get a gift' | Label: joy | Confidence: 0.7784 | Status: accept
 [CHECK] Text: 'I finished all my work on time' | Label: sadness | Confidence: 0.3987 | Status: fallback
+[CHECK] Text: 'I went home after I finished my work' | Label: joy | Confidence: 0.4241 | Status: fallback
+[CHECK] Text: 'I went home early' | Label: sadness | Confidence: 0.4948 | Status: fallback
+[CHECK] Text: 'I went home early' | Label: sadness | Confidence: 0.4948 | Status: fallback
+[CHECK] Text: 'I went home early today' | Label: joy | Confidence: 0.3399 | Status: fallback

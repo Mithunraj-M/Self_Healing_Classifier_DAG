@@ -47,8 +47,8 @@ if __name__ == "__main__":
         print("Fallback was used")
         print("Fallback model confidence score: ",final_state.get("backup_confidence"))
 
-        if final_state.get("\nclarification_used"):
-            print("Fallback Model confidence too low")
+        if final_state.get("clarification_used")==True:
+            #
             print("Clarification used before fallback")
             print("Clarified Text:", final_state.get("clarified_text"))
         print("\nFinal Label:", final_state.get("final_label"))

@@ -176,3 +176,18 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 2025-06-21 16:01:49,363 - INFO - Clarified input: "I was so relieved that I finished all my work and went home early."
 2025-06-21 16:04:30,039 - INFO - Triggering clarification for input: I finished all my work on time
 2025-06-21 16:04:41,134 - INFO - Clarified input: "I feel good because I finished all my work on time."
+2025-06-21 23:37:36,318 - INFO - Triggering clarification for input: I went home after I finished my work
+2025-06-21 23:38:01,199 - INFO - Clarified input: After finishing my work, I felt very good as I went home.
+2025-06-21 23:38:04,575 - INFO - Triggering clarification for input: After finishing my work, I felt very good as I went home.
+2025-06-21 23:38:31,382 - INFO - Clarified input: After finishing my work quickly and being appreciated for it, I felt proud and satisfied as I went home.
+2025-06-21 23:38:35,148 - INFO - Triggering clarification for input: After finishing my work quickly and being appreciated for it, I felt proud and satisfied as I went home.
+2025-06-21 23:39:06,042 - INFO - Clarified input: "After finishing my work quickly and being appreciated for it, I felt happy, proud, and satisfied as I went home."
+2025-06-21 23:47:56,476 - INFO - Triggering clarification for input: I went home early
+2025-06-21 23:48:23,702 - INFO - Clarified input: "I left work early and felt happy to go home."
+2025-06-22 00:04:42,321 - INFO - Triggering clarification for input: I went home early
+2025-06-22 00:04:54,539 - INFO - Clarified input: "I went home early feeling good."
+2025-06-22 00:24:34,162 - INFO - Triggering clarification for input: I went home early today
+2025-06-22 00:25:17,283 - ERROR - LLM clarification failed: Timed out. Please try again. {"error":{"message":"Timed out. Please try again.","code":408}} 408 {'error': {'message': 'Timed out. Please try again.', 'code': 408}} {'Date': 'Sat, 21 Jun 2025 18:55:16 GMT', 'Content-Type': 'application/json', 'Content-Length': '63', 'Connection': 'keep-alive', 'Cf-Ray': '9535b81028f63c13-BLR', 'Access-Control-Allow-Origin': '*', 'X-Clerk-Auth-Message': 'Invalid JWT form. A JWT consists of three parts separated by dots. (reason=token-invalid, token-carrier=header)', 'X-Clerk-Auth-Reason': 'token-invalid', 'X-Clerk-Auth-Status': 'signed-out', 'Vary': 'Accept-Encoding', 'Server': 'cloudflare'}
+2025-06-22 00:25:17,283 - INFO - Clarified input: I went home early today (clarification failed)
+2025-06-22 00:25:21,109 - INFO - Triggering clarification for input: I went home early today (clarification failed)
+2025-06-22 00:25:35,224 - INFO - Clarified input: Today I went home early feeling happy.

@@ -90,3 +90,25 @@
 2025-06-21 16:04:30,038 - INFO - [BACKUP RESULT] Text: 'I finished all my work on time' -> Zero-Shot Label: joy (Confidence: 0.3559)
 2025-06-21 16:04:41,135 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I feel good because I finished all my work on time."'
 2025-06-21 16:04:43,263 - INFO - [BACKUP RESULT] Text: '"I feel good because I finished all my work on time."' -> Zero-Shot Label: joy (Confidence: 0.8306)
+2025-06-21 23:37:21,086 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home after I finished my work'
+2025-06-21 23:37:36,313 - INFO - [BACKUP RESULT] Text: 'I went home after I finished my work' -> Zero-Shot Label: surprise (Confidence: 0.3708)
+2025-06-21 23:38:01,200 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'After finishing my work, I felt very good as I went home.'
+2025-06-21 23:38:04,574 - INFO - [BACKUP RESULT] Text: 'After finishing my work, I felt very good as I went home.' -> Zero-Shot Label: joy (Confidence: 0.5673)
+2025-06-21 23:38:31,383 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'After finishing my work quickly and being appreciated for it, I felt proud and satisfied as I went home.'
+2025-06-21 23:38:35,146 - INFO - [BACKUP RESULT] Text: 'After finishing my work quickly and being appreciated for it, I felt proud and satisfied as I went home.' -> Zero-Shot Label: joy (Confidence: 0.6081)
+2025-06-21 23:39:06,043 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"After finishing my work quickly and being appreciated for it, I felt happy, proud, and satisfied as I went home."'
+2025-06-21 23:39:09,317 - INFO - [BACKUP RESULT] Text: '"After finishing my work quickly and being appreciated for it, I felt happy, proud, and satisfied as I went home."' -> Zero-Shot Label: joy (Confidence: 0.8658)
+2025-06-21 23:47:46,095 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home early'
+2025-06-21 23:47:56,447 - INFO - [BACKUP RESULT] Text: 'I went home early' -> Zero-Shot Label: surprise (Confidence: 0.5064)
+2025-06-21 23:48:23,704 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I left work early and felt happy to go home."'
+2025-06-21 23:48:27,919 - INFO - [BACKUP RESULT] Text: '"I left work early and felt happy to go home."' -> Zero-Shot Label: joy (Confidence: 0.8562)
+2025-06-22 00:04:33,668 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home early'
+2025-06-22 00:04:42,314 - INFO - [BACKUP RESULT] Text: 'I went home early' -> Zero-Shot Label: surprise (Confidence: 0.5064)
+2025-06-22 00:04:54,540 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I went home early feeling good."'
+2025-06-22 00:04:57,580 - INFO - [BACKUP RESULT] Text: '"I went home early feeling good."' -> Zero-Shot Label: joy (Confidence: 0.7350)
+2025-06-22 00:24:22,022 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home early today'
+2025-06-22 00:24:34,133 - INFO - [BACKUP RESULT] Text: 'I went home early today' -> Zero-Shot Label: surprise (Confidence: 0.4937)
+2025-06-22 00:25:17,285 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home early today (clarification failed)'
+2025-06-22 00:25:21,108 - INFO - [BACKUP RESULT] Text: 'I went home early today (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.4699)
+2025-06-22 00:25:35,227 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Today I went home early feeling happy.'
+2025-06-22 00:25:39,213 - INFO - [BACKUP RESULT] Text: 'Today I went home early feeling happy.' -> Zero-Shot Label: joy (Confidence: 0.8884)
