@@ -53,7 +53,7 @@
        * Ex:"i can go from feeling so hopeless to so damned hopeful just from being around someone who cares and is awake" *
 - Outputs the emotion prediciton and its confidence score
 
-![Inference Output](imgs/inference_output.png)
+![Inference Output](imgs/Inference_output.png)
 ## Confidence Check Node
 
 - Uses the Confidence Score computed by the inference node to check if the confidence score is above threshold
