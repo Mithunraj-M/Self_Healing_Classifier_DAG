@@ -46,7 +46,7 @@
 ![Mean Confidence Score](imgs/mcp.png)
 
 ### LangGraph Workflow
-![DAG](imgs/dag.png)
+![DAG](imgs/dag1.png)
 
 ## Inference Node
 
