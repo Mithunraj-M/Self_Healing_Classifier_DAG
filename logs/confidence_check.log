@@ -1,0 +1,4 @@
+[CHECK] Text: 'I'm scared.' | Label: fear | Confidence: 0.4500
+[CHECK] Text: 'I'm scared.' | Label: fear | Confidence: 0.4500
+[CHECK] Text: 'I'm scared.' | Label: fear | Confidence: 0.4500 | Status: fallback
+[CHECK] Text: 'My teacher praised me due to which I feel good, but also because I don't have good knowledge I feel bad.' | Label:  | Confidence: 0.5252 | Status: fallback
