@@ -31,3 +31,62 @@
 2025-06-21 14:31:46,725 - INFO - [BACKUP RESULT] Text: '"I left work early and it was nice to go home."' -> Zero-Shot Label: joy (Confidence: 0.4711)
 2025-06-21 14:31:57,053 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I left work early and it made me happy to go home."'
 2025-06-21 14:31:59,236 - INFO - [BACKUP RESULT] Text: '"I left work early and it made me happy to go home."' -> Zero-Shot Label: joy (Confidence: 0.9006)
+2025-06-21 15:40:20,920 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place'
+2025-06-21 15:40:25,975 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting the first place' -> Zero-Shot Label: joy (Confidence: 0.4087)
+2025-06-21 15:40:26,909 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place (clarification failed)'
+2025-06-21 15:40:29,124 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting the first place (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.5313)
+2025-06-21 15:40:29,551 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed)'
+2025-06-21 15:40:32,236 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.4568)
+2025-06-21 15:40:32,601 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:40:35,442 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.4063)
+2025-06-21 15:40:35,795 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:40:38,280 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.4395)
+2025-06-21 15:40:38,755 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:40:41,475 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.4028)
+2025-06-21 15:40:41,864 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:40:44,750 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.4818)
+2025-06-21 15:40:45,140 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:40:49,123 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.5035)
+2025-06-21 15:40:49,520 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:40:53,805 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.4807)
+2025-06-21 15:40:54,231 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:41:57,289 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting first place'
+2025-06-21 15:42:00,225 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting first place' -> Zero-Shot Label: joy (Confidence: 0.4295)
+2025-06-21 15:42:00,922 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting first place (clarification failed)'
+2025-06-21 15:42:03,110 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting first place (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.6122)
+2025-06-21 15:42:03,567 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed)'
+2025-06-21 15:42:05,762 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.5566)
+2025-06-21 15:42:06,123 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:42:08,677 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.5235)
+2025-06-21 15:42:09,047 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:42:11,807 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.5532)
+2025-06-21 15:42:12,263 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:42:15,179 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.4874)
+2025-06-21 15:42:15,546 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:42:18,531 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.5638)
+2025-06-21 15:42:18,933 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)'
+2025-06-21 15:42:22,040 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.5976)
+2025-06-21 15:45:21,551 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone appreciated me for getting first place'
+2025-06-21 15:45:30,207 - INFO - [BACKUP RESULT] Text: 'Everyone appreciated me for getting first place' -> Zero-Shot Label: joy (Confidence: 0.4295)
+2025-06-21 15:45:46,685 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I felt happy when everyone appreciated me for getting first place."'
+2025-06-21 15:45:48,827 - INFO - [BACKUP RESULT] Text: '"I felt happy when everyone appreciated me for getting first place."' -> Zero-Shot Label: joy (Confidence: 0.8928)
+2025-06-21 15:52:17,596 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'My friend was beat up by a group of men '
+2025-06-21 15:52:22,517 - INFO - [BACKUP RESULT] Text: 'My friend was beat up by a group of men ' -> Zero-Shot Label: surprise (Confidence: 0.4842)
+2025-06-21 15:52:35,766 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I felt angry when I found out that my friend was beat up by a group of men.'
+2025-06-21 15:52:38,297 - INFO - [BACKUP RESULT] Text: 'I felt angry when I found out that my friend was beat up by a group of men.' -> Zero-Shot Label: anger (Confidence: 0.9228)
+2025-06-21 15:55:32,005 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home'
+2025-06-21 15:55:38,610 - INFO - [BACKUP RESULT] Text: 'I went home' -> Zero-Shot Label: surprise (Confidence: 0.4406)
+2025-06-21 15:55:46,576 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I happily went home."'
+2025-06-21 15:55:48,867 - INFO - [BACKUP RESULT] Text: '"I happily went home."' -> Zero-Shot Label: joy (Confidence: 0.9178)
+2025-06-21 16:00:14,452 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home early'
+2025-06-21 16:00:21,076 - INFO - [BACKUP RESULT] Text: 'I went home early' -> Zero-Shot Label: surprise (Confidence: 0.5064)
+2025-06-21 16:00:41,806 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I felt accomplished and satisfied so I went home early after finishing my work in time."'
+2025-06-21 16:00:44,094 - INFO - [BACKUP RESULT] Text: '"I felt accomplished and satisfied so I went home early after finishing my work in time."' -> Zero-Shot Label: joy (Confidence: 0.7210)
+2025-06-21 16:01:26,672 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home early after I finished my work'
+2025-06-21 16:01:32,027 - INFO - [BACKUP RESULT] Text: 'I went home early after I finished my work' -> Zero-Shot Label: surprise (Confidence: 0.4277)
+2025-06-21 16:01:49,364 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I was so relieved that I finished all my work and went home early."'
+2025-06-21 16:01:51,616 - INFO - [BACKUP RESULT] Text: '"I was so relieved that I finished all my work and went home early."' -> Zero-Shot Label: joy (Confidence: 0.7525)
+2025-06-21 16:04:25,400 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I finished all my work on time'
+2025-06-21 16:04:30,038 - INFO - [BACKUP RESULT] Text: 'I finished all my work on time' -> Zero-Shot Label: joy (Confidence: 0.3559)
+2025-06-21 16:04:41,135 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I feel good because I finished all my work on time."'
+2025-06-21 16:04:43,263 - INFO - [BACKUP RESULT] Text: '"I feel good because I finished all my work on time."' -> Zero-Shot Label: joy (Confidence: 0.8306)

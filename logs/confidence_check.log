@@ -22,3 +22,14 @@
 [CHECK] Text: 'I went to a mall to get Ice cream' | Label: joy | Confidence: 0.8350 | Status: accept
 [CHECK] Text: 'I went home on time' | Label: joy | Confidence: 0.5428 | Status: fallback
 [CHECK] Text: 'I went home early' | Label: sadness | Confidence: 0.4948 | Status: fallback
+[CHECK] Text: 'Everyone appreciated when I got the first place' | Label: joy | Confidence: 0.7167 | Status: accept
+[CHECK] Text: 'Everyone appreciated me for getting the first place' | Label: joy | Confidence: 0.6068 | Status: fallback
+[CHECK] Text: 'Everyone appreciated me for getting first place' | Label: joy | Confidence: 0.6206 | Status: fallback
+[CHECK] Text: 'Everyone appreciated me for getting first place' | Label: joy | Confidence: 0.6206 | Status: fallback
+[CHECK] Text: 'My friend was beat up by a group of men ' | Label: anger | Confidence: 0.5214 | Status: fallback
+[CHECK] Text: 'I am very happy to go home' | Label: joy | Confidence: 0.9870 | Status: accept
+[CHECK] Text: 'I went home' | Label: joy | Confidence: 0.5647 | Status: fallback
+[CHECK] Text: 'I went home early' | Label: sadness | Confidence: 0.4948 | Status: fallback
+[CHECK] Text: 'I went home early after I finished my work' | Label: sadness | Confidence: 0.5212 | Status: fallback
+[CHECK] Text: 'I went to the mall to get a gift' | Label: joy | Confidence: 0.7784 | Status: accept
+[CHECK] Text: 'I finished all my work on time' | Label: sadness | Confidence: 0.3987 | Status: fallback

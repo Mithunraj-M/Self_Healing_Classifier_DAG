@@ -112,3 +112,67 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 2025-06-21 14:31:44,576 - INFO - Clarified input: "I left work early and it was nice to go home."
 2025-06-21 14:31:46,726 - INFO - Triggering clarification for input: "I left work early and it was nice to go home."
 2025-06-21 14:31:57,051 - INFO - Clarified input: "I left work early and it made me happy to go home."
+2025-06-21 15:40:25,977 - INFO - Triggering clarification for input: Everyone appreciated me for getting the first place
+2025-06-21 15:40:26,907 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:40:26,908 - INFO - Clarified input: Everyone appreciated me for getting the first place (clarification failed)
+2025-06-21 15:40:29,125 - INFO - Triggering clarification for input: Everyone appreciated me for getting the first place (clarification failed)
+2025-06-21 15:40:29,547 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:40:29,547 - INFO - Clarified input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed)
+2025-06-21 15:40:32,238 - INFO - Triggering clarification for input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed)
+2025-06-21 15:40:32,599 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:40:32,599 - INFO - Clarified input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:35,443 - INFO - Triggering clarification for input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:35,794 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:40:35,794 - INFO - Clarified input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:38,281 - INFO - Triggering clarification for input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:38,754 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:40:38,754 - INFO - Clarified input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:41,476 - INFO - Triggering clarification for input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:41,862 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:40:41,863 - INFO - Clarified input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:44,751 - INFO - Triggering clarification for input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:45,139 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:40:45,139 - INFO - Clarified input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:49,124 - INFO - Triggering clarification for input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:49,519 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:40:49,519 - INFO - Clarified input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:53,806 - INFO - Triggering clarification for input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:40:54,210 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:40:54,210 - INFO - Clarified input: Everyone appreciated me for getting the first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:00,227 - INFO - Triggering clarification for input: Everyone appreciated me for getting first place
+2025-06-21 15:42:00,919 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:42:00,920 - INFO - Clarified input: Everyone appreciated me for getting first place (clarification failed)
+2025-06-21 15:42:03,111 - INFO - Triggering clarification for input: Everyone appreciated me for getting first place (clarification failed)
+2025-06-21 15:42:03,565 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:42:03,565 - INFO - Clarified input: Everyone appreciated me for getting first place (clarification failed) (clarification failed)
+2025-06-21 15:42:05,763 - INFO - Triggering clarification for input: Everyone appreciated me for getting first place (clarification failed) (clarification failed)
+2025-06-21 15:42:06,122 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:42:06,123 - INFO - Clarified input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:08,678 - INFO - Triggering clarification for input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:09,046 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:42:09,046 - INFO - Clarified input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:11,808 - INFO - Triggering clarification for input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:12,261 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:42:12,261 - INFO - Clarified input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:15,180 - INFO - Triggering clarification for input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:15,545 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:42:15,545 - INFO - Clarified input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:18,532 - INFO - Triggering clarification for input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:18,932 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:42:18,932 - INFO - Clarified input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:42:22,040 - INFO - Triggering clarification for input: Everyone appreciated me for getting first place (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed) (clarification failed)
+2025-06-21 15:43:16,969 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 15:43:17,645 - ERROR - LLM clarification failed: No auth credentials found
+2025-06-21 15:43:17,645 - INFO - Clarified input: I got first place in hackathon (clarification failed)
+2025-06-21 15:45:30,238 - INFO - Triggering clarification for input: Everyone appreciated me for getting first place
+2025-06-21 15:45:46,681 - INFO - Clarified input: "I felt happy when everyone appreciated me for getting first place."
+2025-06-21 15:52:22,520 - INFO - Triggering clarification for input: My friend was beat up by a group of men 
+2025-06-21 15:52:35,765 - INFO - Clarified input: I felt angry when I found out that my friend was beat up by a group of men.
+2025-06-21 15:55:38,623 - INFO - Triggering clarification for input: I went home
+2025-06-21 15:55:46,574 - INFO - Clarified input: "I happily went home."
+2025-06-21 16:00:21,092 - INFO - Triggering clarification for input: I went home early
+2025-06-21 16:00:41,802 - INFO - Clarified input: "I felt accomplished and satisfied so I went home early after finishing my work in time."
+2025-06-21 16:01:32,028 - INFO - Triggering clarification for input: I went home early after I finished my work
+2025-06-21 16:01:49,363 - INFO - Clarified input: "I was so relieved that I finished all my work and went home early."
+2025-06-21 16:04:30,039 - INFO - Triggering clarification for input: I finished all my work on time
+2025-06-21 16:04:41,134 - INFO - Clarified input: "I feel good because I finished all my work on time."

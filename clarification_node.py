@@ -57,7 +57,7 @@ def clarification_node(state: Dict) -> Dict:
         )
         clarification_question = clarification_response["choices"][0]["message"]["content"].strip()
 
-        print("\n🤖 Clarifier Bot:", clarification_question)
+        print("\n Clarifier Bot:", clarification_question)
         user_input = input("You: ").strip()
 
         

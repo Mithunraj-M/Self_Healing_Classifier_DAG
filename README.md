@@ -1,16 +1,23 @@
 ### Self Healing Classifier using DAG
 
 ## How To Setup?
-# Step1: Clone the repository git clone https://github.com/Mithunraj-M/Self_Healing_Classifier_DAG.git
+# Step1: 
+- Clone the repository git clone https://github.com/Mithunraj-M/Self_Healing_Classifier_DAG.git
 
-# Step2: pip install -r requirements.txt
+# Step2: 
+- pip install -r requirements.txt
 
-# Step3:In CLI run python script: python langgraph_app.py
+# Step3:
+- In CLI run python script: python langgraph_app.py
 
 ## Fine tuned Transformer Model
-# fine tuned DistillBERT using LoRA 
-# Dataset used: dair-ai/emotion
+- fine tuned DistillBERT using LoRA 
+- Dataset used: dair-ai/emotion
+
 # Performance Metrics
+
+![Training Log](imgs/epochs.png)
+
 - Final Train Metrics:
 - train_loss: 0.1853
 - train_accuracy: 0.9288
@@ -24,6 +31,16 @@
 - eval_precision: 0.9187
 - eval_recall: 0.9175
 - eval_f1: 0.9175
+
+![Metrics plots](imgs/output.png)
+
+![Confusion Matrix](imgs/cm.png)
+
+![Per class confidence score](imgs/pcp.png)
+
+![Mean Confidence Score](imgs/mcp.png)
+
+
 
 ## Inference Node
 
@@ -57,3 +74,12 @@
 ## Logs
 
 - Logs at each node is monitored and logged into the logs folder present in the repository
+
+## Working Examples
+# Example1: 
+
+![example1](imgs/ex_1.png)
+
+![example2](imgs/ex_2.png)
+
+![figure1](imgs/Figure_1.png) ![figure2](imgs/Figure_2.png) ![figure3](imgs/Figure_3.png)

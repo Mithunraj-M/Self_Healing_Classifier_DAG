@@ -22,3 +22,14 @@
 2025-06-21 14:21:22,353 - INFO - Text: 'I went to a mall to get Ice cream' | Prediction: joy | Confidence: 0.8350
 2025-06-21 14:23:25,536 - INFO - Text: 'I went home on time' | Prediction: joy | Confidence: 0.5428
 2025-06-21 14:31:31,546 - INFO - Text: 'I went home early' | Prediction: sadness | Confidence: 0.4948
+2025-06-21 15:38:15,422 - INFO - Text: 'Everyone appreciated when I got the first place' | Prediction: joy | Confidence: 0.7167
+2025-06-21 15:40:20,917 - INFO - Text: 'Everyone appreciated me for getting the first place' | Prediction: joy | Confidence: 0.6068
+2025-06-21 15:41:57,286 - INFO - Text: 'Everyone appreciated me for getting first place' | Prediction: joy | Confidence: 0.6206
+2025-06-21 15:45:21,548 - INFO - Text: 'Everyone appreciated me for getting first place' | Prediction: joy | Confidence: 0.6206
+2025-06-21 15:52:17,594 - INFO - Text: 'My friend was beat up by a group of men ' | Prediction: anger | Confidence: 0.5214
+2025-06-21 15:54:54,888 - INFO - Text: 'I am very happy to go home' | Prediction: joy | Confidence: 0.9870
+2025-06-21 15:55:32,001 - INFO - Text: 'I went home' | Prediction: joy | Confidence: 0.5647
+2025-06-21 16:00:14,450 - INFO - Text: 'I went home early' | Prediction: sadness | Confidence: 0.4948
+2025-06-21 16:01:26,669 - INFO - Text: 'I went home early after I finished my work' | Prediction: sadness | Confidence: 0.5212
+2025-06-21 16:03:00,979 - INFO - Text: 'I went to the mall to get a gift' | Prediction: joy | Confidence: 0.7784
+2025-06-21 16:04:25,398 - INFO - Text: 'I finished all my work on time' | Prediction: sadness | Confidence: 0.3987
