@@ -1,5 +1,5 @@
 # Self Healing Classifier using DAG
-
+### This DAG uses Langgraph, DistillBERT Transformer to classifiy emotions based on textual input. This workflow involves self healing classification when confidence score is low using fallback model and user clarification.
 ## How To Setup?
 ### Step1: 
 - Clone the repository git clone https://github.com/Mithunraj-M/Self_Healing_Classifier_DAG.git
@@ -13,7 +13,7 @@
 ## Implementation
 ## Fine tuned Transformer Model
 - fine tuned DistillBERT using LoRA 
-- Dataset used: dair-ai/emotion
+- Dataset used: dair-ai/emotion (six classes['joy','sadness','anger','surprise','love','fear'])
 
 ### Performance Metrics
 
