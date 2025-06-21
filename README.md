@@ -85,6 +85,7 @@
 ## Logs
 
 - Logs at each node is monitored and logged into the logs folder present in the repository
+- https://github.com/Mithunraj-M/Self_Healing_Classifier_DAG/tree/master/logs
 
 # Working Examples
 ## Example1: 
