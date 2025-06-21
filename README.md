@@ -14,7 +14,8 @@
 ## Fine tuned Transformer Model
 - fine tuned DistillBERT using LoRA 
 - Dataset used: dair-ai/emotion (six classes['joy','sadness','anger','surprise','love','fear'])
-
+- Validation Accuracy 91.75%
+- Training Accuracy 92..88%
 ### Performance Metrics
 
 ![Training Log](imgs/epochs.png)
