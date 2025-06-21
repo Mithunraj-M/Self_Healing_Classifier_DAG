@@ -15,7 +15,7 @@
 - fine tuned DistillBERT using LoRA 
 - Dataset used: dair-ai/emotion (six classes['joy','sadness','anger','surprise','love','fear'])
 - Validation Accuracy 91.75%
-- Training Accuracy 92..88%
+- Training Accuracy 92.88%
 ### Performance Metrics
 
 ![Training Log](imgs/epochs.png)
@@ -45,7 +45,8 @@
 ### Mean Confidence Score
 ![Mean Confidence Score](imgs/mcp.png)
 
-
+### LangGraph Workflow
+![DAG](imgs/DAG.png)
 
 ## Inference Node
 
