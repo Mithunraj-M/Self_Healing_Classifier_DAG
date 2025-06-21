@@ -9,7 +9,7 @@
 
 # Step3:
 - In CLI run python script: python langgraph_app.py
-
+### Implementation
 ## Fine tuned Transformer Model
 - fine tuned DistillBERT using LoRA 
 - Dataset used: dair-ai/emotion
@@ -18,14 +18,14 @@
 
 ![Training Log](imgs/epochs.png)
 
-- Final Train Metrics:
+# Final Train Metrics:
 - train_loss: 0.1853
 - train_accuracy: 0.9288
 - train_precision: 0.9292
 - train_recall: 0.9288
 - train_f1: 0.9289
 
-- Final Validation Metrics:
+# Final Validation Metrics:
 - eval_loss: 0.2283
 - eval_accuracy: 0.9175
 - eval_precision: 0.9187
@@ -34,10 +34,13 @@
 
 ![Metrics plots](imgs/output.png)
 
+confusion matrix
 ![Confusion Matrix](imgs/cm.png)
 
+Per class confidence score
 ![Per class confidence score](imgs/pcp.png)
 
+Mean Confidence Score
 ![Mean Confidence Score](imgs/mcp.png)
 
 
