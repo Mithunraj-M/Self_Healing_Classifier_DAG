@@ -9,6 +9,7 @@
 
 ### Step3:
 - In CLI run python script: python langgraph_app.py
+
 ## Implementation
 ## Fine tuned Transformer Model
 - fine tuned DistillBERT using LoRA 
@@ -49,14 +50,17 @@
 
 - Uses the saved transformer model to predict the emotion label
 - Input: String 
-       Ex:"i can go from feeling so hopeless to so damned hopeful just from being around someone who cares and is awake"
+       * Ex:"i can go from feeling so hopeless to so damned hopeful just from being around someone who cares and is awake" *
 - Outputs the emotion prediciton and its confidence score
 
+![Inference Output](imgs/inference_output.png)
 ## Confidence Check Node
 
 - Uses the Confidence Score computed by the inference node to check if the confidence score is above threshold
 - If confidence Score is above threshold status is set to 'accept'
 - else status is set to "fallback"moving to the Fallback node
+
+![Confidence Check Node Output](imgs/Confidenc_output.png)
 
 ## FallBack Node
 
@@ -64,10 +68,14 @@
 - outputs emotion prediction and confidence score
 - The confidence score is again checked against threshold and in case it is not accepted , it calls the clarification node
 
+![Fallback Node Output](imgs/Fallback_output.png)
+
 ## Clarification Node
 
 - Uses LLM Chains for asking clarification questions and augments to input text
 - Augmented clarification text is passed on back to the fallback node for final prediction
+
+![Clarification Node Output](imgs/clarification_output.png)
 
 ## Visualizer 
 
@@ -80,10 +88,27 @@
 
 # Working Examples
 ## Example1: 
+- Input: I went to mall to get a gift 
+- Expected Prediction : joy
+- Output prediction: joy
+- Confidence Score: 0.78
+- Fallback not triggered
 
 ![example1](imgs/ex_1.png)
 
 ## Example2:
+- Input: I finished all my work on time
+- Expected Prediction : joy
+- Inference output: saddness
+- Inference Confidence Score: 0.39
+- Fallback triggered
+- Fallback Output: surprise
+- Fallback Confidence Score: 0.35
+- Clarification triggered
+- Clarification Output: joy
+- Final Confidence Score: 0.83
 ![example2](imgs/ex_2.png)
+
+## Visualization using Log Data
 
 ![figure1](imgs/Figure_1.png) ![figure2](imgs/Figure_2.png) ![figure3](imgs/Figure_3.png)
