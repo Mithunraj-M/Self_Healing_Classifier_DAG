@@ -1,31 +1,31 @@
-### Self Healing Classifier using DAG
+# Self Healing Classifier using DAG
 
 ## How To Setup?
-# Step1: 
+### Step1: 
 - Clone the repository git clone https://github.com/Mithunraj-M/Self_Healing_Classifier_DAG.git
 
-# Step2: 
+### Step2: 
 - pip install -r requirements.txt
 
-# Step3:
+### Step3:
 - In CLI run python script: python langgraph_app.py
-### Implementation
+## Implementation
 ## Fine tuned Transformer Model
 - fine tuned DistillBERT using LoRA 
 - Dataset used: dair-ai/emotion
 
-# Performance Metrics
+### Performance Metrics
 
 ![Training Log](imgs/epochs.png)
 
-# Final Train Metrics:
+### Final Train Metrics:
 - train_loss: 0.1853
 - train_accuracy: 0.9288
 - train_precision: 0.9292
 - train_recall: 0.9288
 - train_f1: 0.9289
 
-# Final Validation Metrics:
+### Final Validation Metrics:
 - eval_loss: 0.2283
 - eval_accuracy: 0.9175
 - eval_precision: 0.9187
@@ -34,13 +34,13 @@
 
 ![Metrics plots](imgs/output.png)
 
-confusion matrix
+### confusion matrix
 ![Confusion Matrix](imgs/cm.png)
 
-Per class confidence score
+### Per class confidence score
 ![Per class confidence score](imgs/pcp.png)
 
-Mean Confidence Score
+### Mean Confidence Score
 ![Mean Confidence Score](imgs/mcp.png)
 
 
@@ -78,11 +78,12 @@ Mean Confidence Score
 
 - Logs at each node is monitored and logged into the logs folder present in the repository
 
-## Working Examples
-# Example1: 
+# Working Examples
+## Example1: 
 
 ![example1](imgs/ex_1.png)
 
+## Example2:
 ![example2](imgs/ex_2.png)
 
 ![figure1](imgs/Figure_1.png) ![figure2](imgs/Figure_2.png) ![figure3](imgs/Figure_3.png)
