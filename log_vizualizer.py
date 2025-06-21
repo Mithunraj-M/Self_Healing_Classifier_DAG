@@ -1,5 +1,3 @@
-# log_visualizer.py
-
 import os
 import re
 import matplotlib.pyplot as plt
@@ -13,7 +11,7 @@ CHECK_LOG = os.path.join(LOG_DIR, "confidence_check.log")
 
 sns.set(style="whitegrid")
 
-# ---------- Utility Parsers ----------
+
 
 def parse_inference_log():
     confidences = []
@@ -52,7 +50,7 @@ def parse_check_log():
                 accepted += 1
     return accepted, fallback
 
-# ---------- Plotting ----------
+
 
 def plot_confidence_histogram(confidences):
     plt.figure(figsize=(8, 5))
@@ -86,7 +84,7 @@ def plot_fallback_frequency(accepts, fallbacks):
     plt.tight_layout()
     plt.show()
 
-# ---------- Main ----------
+
 if __name__ == "__main__":
     confidences, labels = parse_inference_log()
     accepted, fallback = parse_check_log()
