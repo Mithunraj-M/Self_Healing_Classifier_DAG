@@ -15,3 +15,10 @@
 2025-06-21 10:48:55,830 - INFO - Text: 'I am very happy ' | Prediction: joy | Confidence: 0.9857
 2025-06-21 10:51:45,358 - INFO - Text: 'I am very angry' | Prediction: anger | Confidence: 0.9934
 2025-06-21 10:53:49,139 - INFO - Text: 'It is very irritating to debug big messed up codes' | Prediction: anger | Confidence: 0.8945
+2025-06-21 11:48:10,519 - INFO - Text: 'I finished my work on time' | Prediction: joy | Confidence: 0.4105
+2025-06-21 11:51:04,018 - INFO - Text: 'Oh great, another meeting. Just what I needed today' | Prediction: joy | Confidence: 0.8106
+2025-06-21 14:12:08,165 - INFO - Text: 'I finished my work on time' | Prediction: joy | Confidence: 0.4105
+2025-06-21 14:15:04,231 - INFO - Text: 'I finished my work on time' | Prediction: joy | Confidence: 0.4105
+2025-06-21 14:21:22,353 - INFO - Text: 'I went to a mall to get Ice cream' | Prediction: joy | Confidence: 0.8350
+2025-06-21 14:23:25,536 - INFO - Text: 'I went home on time' | Prediction: joy | Confidence: 0.5428
+2025-06-21 14:31:31,546 - INFO - Text: 'I went home early' | Prediction: sadness | Confidence: 0.4948

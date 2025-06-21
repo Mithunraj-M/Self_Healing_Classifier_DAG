@@ -1,20 +1,25 @@
 CONFIDENCE_THRESHOLD = 0.7
 
-def confidence_check_node(state: dict) -> str:
+CONFIDENCE_THRESHOLD = 0.7
+
+def confidence_check_node(state: dict) -> dict:
     print("\nConfidence Check Node Activated:")
     confidence = state.get("confidence", 0.0)
-    label = state.get("label", "")
+    label = state.get("prediction", "")
     text = state.get("text", "")
 
-    status = "fallback" if confidence < CONFIDENCE_THRESHOLD else "accept"
+    status = "fallback" if confidence < 0.7 else "accept"
 
-    with open("logs/confidence_check.log", "a") as log:
+    with open("logs/confidence_check.log", "a", encoding="utf-8") as log:
         log.write(f"[CHECK] Text: '{text}' | Label: {label} | Confidence: {confidence:.4f} | Status: {status}\n")
-    print("Confidence Check Node Output Status: ",status)
+
+    print("Confidence Check Node Output Status:", status)
     return {
         **state,
-        "status": status  
+        "status": status
     }
+
+
 
 
 if __name__ == "__main__":

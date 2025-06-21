@@ -15,3 +15,10 @@
 [CHECK] Text: 'I am very happy ' | Label:  | Confidence: 0.9857 | Status: accept
 [CHECK] Text: 'I am very angry' | Label:  | Confidence: 0.9934 | Status: accept
 [CHECK] Text: 'It is very irritating to debug big messed up codes' | Label:  | Confidence: 0.8945 | Status: accept
+[CHECK] Text: 'I finished my work on time' | Label:  | Confidence: 0.4105 | Status: fallback
+[CHECK] Text: 'Oh great, another meeting. Just what I needed today' | Label:  | Confidence: 0.8106 | Status: accept
+[CHECK] Text: 'I finished my work on time' | Label:  | Confidence: 0.4105 | Status: fallback
+[CHECK] Text: 'I finished my work on time' | Label: joy | Confidence: 0.4105 | Status: fallback
+[CHECK] Text: 'I went to a mall to get Ice cream' | Label: joy | Confidence: 0.8350 | Status: accept
+[CHECK] Text: 'I went home on time' | Label: joy | Confidence: 0.5428 | Status: fallback
+[CHECK] Text: 'I went home early' | Label: sadness | Confidence: 0.4948 | Status: fallback

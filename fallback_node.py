@@ -17,9 +17,11 @@ zero_shot = pipeline("zero-shot-classification", model="facebook/bart-large-mnli
 
 def fallback_node(state: dict) -> dict:
     print("\nConfidence too low Fallback node triggered: ")
-    text = state.get("text", "")
-    orig_prediction = state.get("prediction", "unknown")
-    orig_confidence = state.get("confidence", 0.0)
+    text = state.get("clarified_text", state.get("text", ""))
+    if not text:
+        logger.error("No text provided for fallback classification.")
+        return {**state, "status": "error", "fallback_triggered": True}
+
 
     logger.warning(f"[BACKUP FALLBACK] Running zero-shot on: '{text}'")
 
@@ -38,7 +40,8 @@ def fallback_node(state: dict) -> dict:
         "final_label": z_label,
         "backup_confidence": z_confidence,
         "fallback_count": state.get("fallback_count", 0) + 1,
-        "timestamp": datetime.utcnow().isoformat()
+        "timestamp": datetime.utcnow().isoformat(),
+        "status":"done"
     }
 
 

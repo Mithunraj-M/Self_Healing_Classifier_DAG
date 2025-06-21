@@ -7,3 +7,27 @@
 2025-06-21 10:32:39,513 - INFO - [BACKUP RESULT] Text: 'Everyone praised me and also everyone scolded me' -> Zero-Shot Label: surprise (Confidence: 0.6496)
 2025-06-21 10:34:21,578 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone praised me and also everyone scolded me'
 2025-06-21 10:34:28,691 - INFO - [BACKUP RESULT] Text: 'Everyone praised me and also everyone scolded me' -> Zero-Shot Label: surprise (Confidence: 0.6496)
+2025-06-21 11:48:10,531 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I finished my work on time'
+2025-06-21 11:48:18,903 - INFO - [BACKUP RESULT] Text: 'I finished my work on time' -> Zero-Shot Label: joy (Confidence: 0.3066)
+2025-06-21 14:15:04,234 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I finished my work on time'
+2025-06-21 14:15:12,187 - INFO - [BACKUP RESULT] Text: 'I finished my work on time' -> Zero-Shot Label: joy (Confidence: 0.3066)
+2025-06-21 14:15:22,750 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I finished my work on time I feel great'
+2025-06-21 14:15:25,015 - INFO - [BACKUP RESULT] Text: 'I finished my work on time I feel great' -> Zero-Shot Label: joy (Confidence: 0.9070)
+2025-06-21 14:23:25,540 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home on time'
+2025-06-21 14:23:34,189 - INFO - [BACKUP RESULT] Text: 'I went home on time' -> Zero-Shot Label: joy (Confidence: 0.2912)
+2025-06-21 14:23:59,640 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home on time it was nice'
+2025-06-21 14:24:02,049 - INFO - [BACKUP RESULT] Text: 'I went home on time it was nice' -> Zero-Shot Label: joy (Confidence: 0.6003)
+2025-06-21 14:24:18,481 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home on time it was good'
+2025-06-21 14:24:21,987 - INFO - [BACKUP RESULT] Text: 'I went home on time it was good' -> Zero-Shot Label: joy (Confidence: 0.6314)
+2025-06-21 14:24:31,617 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home on time I likeed it a lot'
+2025-06-21 14:24:33,917 - INFO - [BACKUP RESULT] Text: 'I went home on time I likeed it a lot' -> Zero-Shot Label: joy (Confidence: 0.5703)
+2025-06-21 14:25:00,817 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home on time I was great'
+2025-06-21 14:25:02,827 - INFO - [BACKUP RESULT] Text: 'I went home on time I was great' -> Zero-Shot Label: joy (Confidence: 0.6158)
+2025-06-21 14:25:09,924 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home on time it was great'
+2025-06-21 14:25:11,894 - INFO - [BACKUP RESULT] Text: 'I went home on time it was great' -> Zero-Shot Label: joy (Confidence: 0.7659)
+2025-06-21 14:31:31,550 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I went home early'
+2025-06-21 14:31:38,021 - INFO - [BACKUP RESULT] Text: 'I went home early' -> Zero-Shot Label: surprise (Confidence: 0.5064)
+2025-06-21 14:31:44,579 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I left work early and it was nice to go home."'
+2025-06-21 14:31:46,725 - INFO - [BACKUP RESULT] Text: '"I left work early and it was nice to go home."' -> Zero-Shot Label: joy (Confidence: 0.4711)
+2025-06-21 14:31:57,053 - WARNING - [BACKUP FALLBACK] Running zero-shot on: '"I left work early and it made me happy to go home."'
+2025-06-21 14:31:59,236 - INFO - [BACKUP RESULT] Text: '"I left work early and it made me happy to go home."' -> Zero-Shot Label: joy (Confidence: 0.9006)

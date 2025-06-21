@@ -1,0 +1,114 @@
+2025-06-21 13:28:13,032 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 13:28:13,032 - ERROR - LLM clarification failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-21 13:28:13,032 - INFO - Clarified input: I got first place in hackathon (clarification failed)
+2025-06-21 13:29:52,141 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 13:29:52,142 - ERROR - LLM clarification failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-21 13:29:52,142 - INFO - Clarified input: I got first place in hackathon (clarification failed)
+2025-06-21 13:34:47,780 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 13:34:47,781 - ERROR - LLM clarification failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-21 13:34:47,781 - INFO - Clarified input: I got first place in hackathon (clarification failed)
+2025-06-21 13:35:00,496 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 13:35:00,497 - ERROR - LLM clarification failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-21 13:35:00,497 - INFO - Clarified input: I got first place in hackathon (clarification failed)
+2025-06-21 13:35:17,720 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 13:35:17,740 - ERROR - LLM clarification failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-21 13:35:17,740 - INFO - Clarified input: I got first place in hackathon (clarification failed)
+2025-06-21 13:35:46,244 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 13:35:46,244 - ERROR - LLM clarification failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-21 13:35:46,244 - INFO - Clarified input: I got first place in hackathon (clarification failed)
+2025-06-21 13:38:42,108 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 13:38:42,120 - ERROR - LLM clarification failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-21 13:38:42,120 - INFO - Clarified input: I got first place in hackathon (clarification failed)
+2025-06-21 13:42:53,564 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 13:42:53,566 - ERROR - LLM clarification failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-21 13:42:53,566 - INFO - Clarified input: I got first place in hackathon (clarification failed)
+2025-06-21 13:44:13,581 - INFO - Triggering clarification for input: I got first place in hackathon
+2025-06-21 13:44:25,778 - INFO - Clarified input: I got first place in hackathon It felt good
+2025-06-21 14:15:12,202 - INFO - Triggering clarification for input: I finished my work on time
+2025-06-21 14:15:22,748 - INFO - Clarified input: I finished my work on time I feel great
+2025-06-21 14:23:34,204 - INFO - Triggering clarification for input: I went home on time
+2025-06-21 14:23:59,635 - INFO - Clarified input: I went home on time it was nice
+2025-06-21 14:24:02,051 - INFO - Triggering clarification for input: I went home on time
+2025-06-21 14:24:18,480 - INFO - Clarified input: I went home on time it was good
+2025-06-21 14:24:21,988 - INFO - Triggering clarification for input: I went home on time
+2025-06-21 14:24:31,613 - INFO - Clarified input: I went home on time I likeed it a lot
+2025-06-21 14:24:33,917 - INFO - Triggering clarification for input: I went home on time
+2025-06-21 14:25:00,816 - INFO - Clarified input: I went home on time I was great
+2025-06-21 14:25:02,828 - INFO - Triggering clarification for input: I went home on time
+2025-06-21 14:25:09,923 - INFO - Clarified input: I went home on time it was great
+2025-06-21 14:31:38,032 - INFO - Triggering clarification for input: I went home early
+2025-06-21 14:31:44,576 - INFO - Clarified input: "I left work early and it was nice to go home."
+2025-06-21 14:31:46,726 - INFO - Triggering clarification for input: "I left work early and it was nice to go home."
+2025-06-21 14:31:57,051 - INFO - Clarified input: "I left work early and it made me happy to go home."

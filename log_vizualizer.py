@@ -89,8 +89,7 @@ if __name__ == "__main__":
     confidences, labels = parse_inference_log()
     accepted, fallback = parse_check_log()
 
-    print(f"Parsed {len(confidences)} predictions")
-    print(f"Accepted: {accepted} | Fallbacks: {fallback}")
+    
 
     if confidences:
         plot_confidence_histogram(confidences)
