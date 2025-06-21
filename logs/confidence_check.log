@@ -2,3 +2,16 @@
 [CHECK] Text: 'I'm scared.' | Label: fear | Confidence: 0.4500
 [CHECK] Text: 'I'm scared.' | Label: fear | Confidence: 0.4500 | Status: fallback
 [CHECK] Text: 'My teacher praised me due to which I feel good, but also because I don't have good knowledge I feel bad.' | Label:  | Confidence: 0.5252 | Status: fallback
+[CHECK] Text: 'I got first place in hackathon' | Label:  | Confidence: 0.6006 | Status: fallback
+[CHECK] Text: 'My friend beat me up badly that I don't want to speak to him anymore' | Label:  | Confidence: 0.5595 | Status: fallback
+[CHECK] Text: 'Everybody praised me for my good work' | Label:  | Confidence: 0.8592 | Status: accept
+[CHECK] Text: 'Everyone appreciated me for my good work' | Label:  | Confidence: 0.7478 | Status: accept
+[CHECK] Text: 'Everyone apprecieted me for my good work' | Label:  | Confidence: 0.9784 | Status: accept
+[CHECK] Text: 'Everyone apprecieted me for my good work' | Label:  | Confidence: 0.9784 | Status: accept
+[CHECK] Text: 'I am happy today but also I am very sad' | Label:  | Confidence: 0.9547 | Status: accept
+[CHECK] Text: 'Everyone praised me and also everyone scolded me' | Label:  | Confidence: 0.6648 | Status: fallback
+[CHECK] Text: 'Everyone praised me and also everyone scolded me' | Label:  | Confidence: 0.6648 | Status: fallback
+[CHECK] Text: 'Everyone praised me and also everyone scolded me' | Label:  | Confidence: 0.6648 | Status: fallback
+[CHECK] Text: 'I am very happy ' | Label:  | Confidence: 0.9857 | Status: accept
+[CHECK] Text: 'I am very angry' | Label:  | Confidence: 0.9934 | Status: accept
+[CHECK] Text: 'It is very irritating to debug big messed up codes' | Label:  | Confidence: 0.8945 | Status: accept

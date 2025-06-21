@@ -1,0 +1,9 @@
+2025-06-21 09:35:52,469 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I got first place in hackathon'
+2025-06-21 09:39:59,412 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'My friend beat me up badly that I don't want to speak to him anymore'
+2025-06-21 09:40:06,092 - INFO - [BACKUP RESULT] Text: 'My friend beat me up badly that I don't want to speak to him anymore' -> Zero-Shot Label: surprise (Confidence: 0.4450)
+2025-06-21 10:28:50,963 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone praised me and also everyone scolded me'
+2025-06-21 10:28:57,731 - INFO - [BACKUP RESULT] Text: 'Everyone praised me and also everyone scolded me' -> Zero-Shot Label: surprise (Confidence: 0.6496)
+2025-06-21 10:32:31,928 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone praised me and also everyone scolded me'
+2025-06-21 10:32:39,513 - INFO - [BACKUP RESULT] Text: 'Everyone praised me and also everyone scolded me' -> Zero-Shot Label: surprise (Confidence: 0.6496)
+2025-06-21 10:34:21,578 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Everyone praised me and also everyone scolded me'
+2025-06-21 10:34:28,691 - INFO - [BACKUP RESULT] Text: 'Everyone praised me and also everyone scolded me' -> Zero-Shot Label: surprise (Confidence: 0.6496)
