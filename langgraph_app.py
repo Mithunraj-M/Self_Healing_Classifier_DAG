@@ -37,13 +37,13 @@ if __name__ == "__main__":
     print("\nStarting LangGraph inference pipeline with fallback and clarification support\n")
     input_text = input("Enter a text to classify: ")
     final_state = graph.invoke({"text": input_text})
-
+    
     print("\nWORKFLOW SUMMARY:")
     print("\nUser Input:", final_state.get("text"))
     print("\nInference Prediction:", final_state.get("prediction"))
     print("\nConfidence Check Status:", final_state.get("status"))
 
-    if final_state.get("\nFallback_triggered"):
+    if final_state.get("fallback_triggered")==True:
         print("Fallback was used")
         print("Fallback model confidence score: ",final_state.get("backup_confidence"))
 
@@ -56,7 +56,7 @@ if __name__ == "__main__":
     else:
         print("\nFallback not triggered")
         print("\nFinal Prediction:", final_state.get("prediction"))
-        print("Confidence:", f"{final_state.get('backup_confidence', 0):.2f}")
+        print("Confidence:", f"{final_state.get('confidence', 0):.2f}")
 
     
     subprocess.run(["python", "log_vizualizer.py"])
