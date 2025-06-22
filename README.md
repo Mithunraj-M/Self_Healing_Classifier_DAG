@@ -112,6 +112,7 @@
 - Final Confidence Score: 0.83
 ![example2](imgs/ex_2.png)
 
+# Video Demo https://drive.google.com/file/d/1hr1K-zL12UTmrGX05XzOFBewn3d9T0jq/view?usp=sharing
 ## Visualization using Log Data
 
 ![figure1](imgs/Figure_1.png) ![figure2](imgs/Figure_2.png) ![figure3](imgs/Figure_3.png)
