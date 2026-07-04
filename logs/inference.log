@@ -37,3 +37,4 @@
 2025-06-21 23:47:46,089 - INFO - Text: 'I went home early' | Prediction: sadness | Confidence: 0.4948
 2025-06-22 00:04:33,663 - INFO - Text: 'I went home early' | Prediction: sadness | Confidence: 0.4948
 2025-06-22 00:24:22,018 - INFO - Text: 'I went home early today' | Prediction: joy | Confidence: 0.3399
+2025-11-09 22:10:27,327 - INFO - Text: 'I had to go home early after work' | Prediction: sadness | Confidence: 0.6329

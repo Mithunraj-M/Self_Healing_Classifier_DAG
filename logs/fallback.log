@@ -112,3 +112,9 @@
 2025-06-22 00:25:21,108 - INFO - [BACKUP RESULT] Text: 'I went home early today (clarification failed)' -> Zero-Shot Label: surprise (Confidence: 0.4699)
 2025-06-22 00:25:35,227 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'Today I went home early feeling happy.'
 2025-06-22 00:25:39,213 - INFO - [BACKUP RESULT] Text: 'Today I went home early feeling happy.' -> Zero-Shot Label: joy (Confidence: 0.8884)
+2025-11-09 22:10:27,330 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I had to go home early after work'
+2025-11-09 22:10:35,710 - INFO - [BACKUP RESULT] Text: 'I had to go home early after work' -> Zero-Shot Label: surprise (Confidence: 0.4598)
+2025-11-09 22:10:45,330 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I left work early feeling good.'
+2025-11-09 22:10:47,630 - INFO - [BACKUP RESULT] Text: 'I left work early feeling good.' -> Zero-Shot Label: joy (Confidence: 0.5950)
+2025-11-09 22:10:59,059 - WARNING - [BACKUP FALLBACK] Running zero-shot on: 'I left work early feeling happy.'
+2025-11-09 22:11:01,317 - INFO - [BACKUP RESULT] Text: 'I left work early feeling happy.' -> Zero-Shot Label: joy (Confidence: 0.8670)

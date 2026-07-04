@@ -191,3 +191,7 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 2025-06-22 00:25:17,283 - INFO - Clarified input: I went home early today (clarification failed)
 2025-06-22 00:25:21,109 - INFO - Triggering clarification for input: I went home early today (clarification failed)
 2025-06-22 00:25:35,224 - INFO - Clarified input: Today I went home early feeling happy.
+2025-11-09 22:10:35,730 - INFO - Triggering clarification for input: I had to go home early after work
+2025-11-09 22:10:45,329 - INFO - Clarified input: I left work early feeling good.
+2025-11-09 22:10:47,632 - INFO - Triggering clarification for input: I left work early feeling good.
+2025-11-09 22:10:59,058 - INFO - Clarified input: I left work early feeling happy.

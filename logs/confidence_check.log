@@ -37,3 +37,4 @@
 [CHECK] Text: 'I went home early' | Label: sadness | Confidence: 0.4948 | Status: fallback
 [CHECK] Text: 'I went home early' | Label: sadness | Confidence: 0.4948 | Status: fallback
 [CHECK] Text: 'I went home early today' | Label: joy | Confidence: 0.3399 | Status: fallback
+[CHECK] Text: 'I had to go home early after work' | Label: sadness | Confidence: 0.6329 | Status: fallback
